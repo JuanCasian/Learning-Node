@@ -1,0 +1,13 @@
+cmd + k, flechas => split view
+cmd + k, cmd + flechas  => toggle focus
+ctrl + 0 => toggle tree view
+cmd + \ => toggle tree
+shift + cmd + p => command palette
+cmd + p => file finder
+cmd + shift + { / } => toggle btween files
+cmd + enter => insert new line after current
+cmd + shift + enter => insert new line before current
+shift + cmd + d => duplicate current line
+cmd + l => select current line
+ctrl + shift + k => delete current line
+ctrl + e => go to end of line

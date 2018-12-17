@@ -1,0 +1,9 @@
+Package.json is a file which stores the information of our project
+	like the dependencies we got, the file which contains the main
+
+This is used instead of packaging the project with all the modules
+	- it saves up space
+
+To generate the file use:
+	npm init
+	--yes flag makes the default package fast
